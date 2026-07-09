@@ -1,0 +1,6 @@
+{
+  "name": "Masti Time",
+  "description": "A dynamic social video sharing and monetization platform. Upload videos, earn gold coins based on views, subscription milestones, and premium Yellow Tick content boosts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
